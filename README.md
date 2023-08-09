@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hey-hey, I'm <a href="https://twitter.com/unlimitedmolot" target="_blank">Vladislav</a>  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">CEO & Founder of <a href="https://github.com/team-cryptomolot/about-cryptomolot/" target="_blank">Cryptomolot Stake</a>
+<a href="https://ibb.co/Fgmf094"><img src="https://i.ibb.co/ZWGwY3z/83b809857acd41a7bad4935b4734f9fc.gif" alt="83b809857acd41a7bad4935b4734f9fc" border="0"></a>
 
 <!--
 **cryptomolot/cryptomolot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
