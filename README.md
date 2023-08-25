@@ -1,6 +1,6 @@
 <h1 align="center">Hey-hey, I'm <a href="https://twitter.com/unlimitedmolot" target="_blank">Vladislav</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">CEO & Founder of <a href="https://github.com/team-cryptomolot/about-cryptomolot/" target="_blank">Cryptomolot Stake🖥</a>
+<h3 align="center">CEO & Founder of <a href="https://cryptomolotstake.com//" target="_blank">cryptomolot stake🖥</a>
 
  
  ### 🛠I'm currently contributing to: [Aptos Core](https://github.com/aptos-labs/aptos-core) and [Aptos Foundation](https://github.com/aptos-foundation)
