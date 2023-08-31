@@ -3,7 +3,7 @@
 <h3 align="center">CEO & Founder of <a href="https://cryptomolotstake.com//" target="_blank">cryptomolot stake🖥</a>
 
  
- ### 🛠I'm currently contributing to: [Aptos Core](https://github.com/aptos-labs/aptos-core) and [Aptos Foundation](https://github.com/aptos-foundation)
+ ### 🛠 We want to make the protocols we validate even better, more reliable and safer
 
 [![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptomolot)](https://github.com/anuraghazra/github-readme-stats)
 
