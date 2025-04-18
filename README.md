@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/unlimitedmolot" target="_blank">Vladislav</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">CEO & Founder of <a href="https://cryptomolotstake.com//" target="_blank">cryptomolot stake🖥</a>
+<h3 align="center">CEO & Founder of <a href="https://cryptomolotstake.com/" target="_blank">cryptomolot stake🖥</a>
 
  
  ### 🛠 We want to make the protocols we validate even better, more reliable and safer
